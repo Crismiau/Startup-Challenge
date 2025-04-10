@@ -44,7 +44,9 @@ Responsable: Mariana
 Responsable: Cristian
 
 ![image](https://github.com/user-attachments/assets/c894c685-50d7-480e-9fb7-a8f8a9cd9d41)
+
 ![image](https://github.com/user-attachments/assets/5e79ef6d-a896-4875-96bd-32c82e235aa5)
+
 ![image](https://github.com/user-attachments/assets/01157e39-ccdf-438a-b9f6-1ec32e1ded13)
 
 ### 🛠️ Desarrollador - Implementación
@@ -52,6 +54,8 @@ Responsable: Ximena Y Daniel
 
 - **Feature Implementada:**
 - **Diagrama de flujo:**
+- ![Imagen de WhatsApp 2025-04-09 a las 21 57 15_4dccf3ab](https://github.com/user-attachments/assets/598d1873-de92-44cf-b191-333084b1dd01)
+
 
 ### 🔧 QA Tester - Pruebas
 Responsable: Nicol
