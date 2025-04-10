@@ -36,7 +36,6 @@ Responsable: Mariana
 	- **Media:** Ingresos y gastos
 	- **Baja:** Notificaciones
 - **Definir restricciones técnicas o de negocio**
-	- Funcionalidad solo en Android.
 	- Permisos limitados de uso de aplicación.
 
 
