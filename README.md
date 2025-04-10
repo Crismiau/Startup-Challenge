@@ -89,11 +89,11 @@ Responsable: Sebastian
 ### 💬 Pitch
 - Somos una startup tecnológica colombiana con una misión clara: transformar la manera en que las personas gestionan su dinero. En un mundo donde la complejidad financiera puede ser abrumadora, nosotros ofrecemos una solución intuitiva y poderosa directamente en la palma de su mano. En esencia, SmartSpend es su asesor financiero personal, disponible 24/7. Nuestro objetivo es simple: ayudarles a optimizar su gestión financiera, identificar esos gastos innecesarios que a menudo pasan desapercibidos y fomentar hábitos de ahorro efectivos.
 
-¿Quiénes somos? Somos para todos aquellos que generan ingresos y desean tomar el control de su futuro financiero. Ya sean jóvenes profesionales, familias o cualquier persona que busque una manera inteligente y sencilla de manejar su dinero.
+- ¿Quiénes somos? Somos para todos aquellos que generan ingresos y desean tomar el control de su futuro financiero. Ya sean jóvenes profesionales, familias o cualquier persona que busque una manera inteligente y sencilla de manejar su dinero.
 
-Actualmente, estamos enfocados en ofrecer una experiencia móvil Android y IOS excepcional, con planes ambiciosos de expandirnos a otras plataformas y ofrecer aún más funcionalidades en el futuro. Imaginamos un SmartSpend que no solo les ayude a gestionar su dinero, sino que también les eduque con cursos de finanzas, explore oportunidades como el manejo de criptomonedas e incluso haga el proceso más divertido con mini-juegos para controlar gastos.
+- Actualmente, estamos enfocados en ofrecer una experiencia móvil Android y IOS excepcional, con planes ambicios-os de expandirnos a otras plataformas y ofrecer aún más funcionalidades en el futuro. Imaginamos un SmartSpend que no solo les ayude a gestionar su dinero, sino que también les eduque con cursos de finanzas, explore oportunidades como el manejo de criptomonedas e incluso haga el proceso más divertido con mini-juegos para controlar gastos.
 
-En SmartSpend, creemos que una buena salud financiera está al alcance de todos. Estamos construyendo el futuro de la gestión del dinero personal y los invitamos a unirse a nosotros en este viaje.
+- En SmartSpend, creemos que una buena salud financiera está al alcance de todos. Estamos construyendo el futuro de la gestión del dinero personal y los invitamos a unirse a nosotros en este viaje.
 
 
 
